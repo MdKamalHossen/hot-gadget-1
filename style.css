@@ -1,0 +1,54 @@
+.backgrounDesign{
+    background-image: url("./images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size:auto;
+}
+.secondPart{
+    background-image: url("./images/bg-1.png");
+    background-repeat: no-repeat;
+}
+.MackbookPro {
+    margin-top: 8rem !important;
+}
+.card{
+    
+    border: none !important;
+    box-shadow: 4px 20px 38px #dcdcd6;
+}
+a.btn-1 {
+    background-color: black !important;
+    border: none;
+    position: relative;
+    margin: 1px 100px !important;
+}
+.box{
+    background-color: #f8f9fa;
+    border-radius: 11px;
+    box-shadow: 6px -1px 13px #686868;
+    margin-left: 2rem;
+   
+}
+.catagorises{
+    padding-bottom: 3rem;
+}
+.box img{
+    width: 100%;
+}
+.box-bag{
+   
+    transform: translateY(55% );
+    
+}
+h2.text-center.mt-5 {
+    margin-bottom: 10rem;
+}
+.nav-item{
+    padding-right: 1rem;
+  
+}
+.nav-item .nav-link:hover{
+    background-color: rgb(131, 79, 2);
+    border-radius: 3px;
+    color: #dcdcd6;
+}
